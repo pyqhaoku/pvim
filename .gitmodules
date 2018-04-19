@@ -1,0 +1,6 @@
+[submodule "pack/git-plugins/start/ale"]
+	path = pack/git-plugins/start/ale
+	url = https://github.com/w0rp/ale.git
+[submodule "pack/pyq/opt/clang_complete"]
+	path = pack/pyq/opt/clang_complete
+	url = https://github.com/Rip-Rip/clang_complete.git
